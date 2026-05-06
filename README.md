@@ -172,5 +172,9 @@ void sendTelegramAlert() {
 - AI-based detection
 
 ## 👨‍💻 Team
-- Your Name + Team Members
+- Karthikeya
+- Sree charan
+- Navaneeth
+- Venkat
+- Jaidev
 
