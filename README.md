@@ -22,7 +22,7 @@ This project is a wearable IoT system that detects falls and sends real-time ale
 5. Alert sent via Telegram
 
 ## 📷 Prototype
-![Prototype](images/prototype.jpg)
+![Prototype](1000407272.jpg)
 
 ## 🔧 Setup Instructions
 
