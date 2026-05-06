@@ -32,7 +32,7 @@ This project is a wearable IoT system that detects falls and sends real-time ale
 - WiFi
 
 ### 2. Configure
-Update in code:
+'''cpp
 #include <Wire.h>
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
@@ -164,6 +164,7 @@ void sendTelegramAlert() {
   }
 }
 
+'''
 
 ## 📈 Future Improvements
 - Heart rate sensor
